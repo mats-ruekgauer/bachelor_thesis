@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# LaTeX build output
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML logs
+lightning_logs/
+*.ckpt
+
+# Archive
+05_Archive/
